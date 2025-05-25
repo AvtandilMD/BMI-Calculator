@@ -82,13 +82,14 @@
     </androidx.cardview.widget.CardView>
 
     <Button
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/calculateBtn"
-        android:layout_marginTop="20dp"
-        android:text="CALCULATE BMI"
-        android:textSize="16sp"
-        android:layout_gravity="center"/>
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/calculateBtn"
+            android:layout_marginTop="20dp"
+            android:text="CALCULATE BMI"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_gravity="center" android:backgroundTint="#000000"/>
 
     <TextView
         android:layout_width="wrap_content"
